@@ -3,7 +3,7 @@
 
 ### Bug Fixes
 
-1. [20811](https://github.com/influxdata/influxdb/pull/20811): Fix TSM WAL segment size computing. Thanks @StoneYunZhao!
+1. [20851](https://github.com/influxdata/influxdb/pull/20851): Fix TSM WAL segment size computing. Thanks @StoneYunZhao!
 
 ## v2.0.4 [2021-02-08]
 ----------------------
